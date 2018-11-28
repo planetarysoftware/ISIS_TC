@@ -1,10 +1,12 @@
-# Node.js Foundation Project Lifecycle
+# ASC Software Organization Project Lifecycle
+
+> This is a draft document that requires review and approval by the ASC Software Organiation TSC and the ASC Management Team.
 
 ## Project Definition
 
-The Node.js Foundation hosts several "Top-Level Projects." These projects
+The ASC Software Organization hosts several "Top-Level Projects." These projects
 are autonomous from each other and governed by their own TC (Technical
-Committee) and chartered by the Node.js Foundation TSC.
+Committee) and chartered by the ASC TSC.
 
 Projects are free to create "Working Groups" which are autonomous groups
 collaborating to fulfill a set of responsibilities. Working Groups are
@@ -30,7 +32,7 @@ with *incubation* status are not granted voting privileges on the TSC.
 ## Incubation
 
 The purpose of incubation is to support and mentor projects entering the
-foundation. The goal is for projects to be:
+organization. The goal is for projects to be:
 
 * Participatory
 * Transparent
@@ -44,17 +46,13 @@ from incubation are based on metrics that demonstrate success in terms of
 these values. These metrics are:
 
 * TC is 5 members or greater.
-* No more than 1/4 of the TC is affiliated with the same employer.
-* Members of the TC live in at least 4 different timezones and
-representing no fewer than three countries.
 * The decision making and release process is documented and publicly accessible.
 
 A project may apply to graduate from incubation at any time by calling
 for a vote in the TSC.
 
-While a project is incubating it is assigned at least 3
-[mentors](https://github.com/nodejs/TSC/blob/master/README.md#mentors)
-who are responsible for working with the project to adopt policies and
+While a project is incubating it is assigned
+mentors who are responsible for working with the project to adopt policies and
 gain the health and contributorship it will need in order to graduate
 from incubation. The mentor list is nominated and approved by the TSC and
 is expected to be larger than the TSC.
@@ -62,7 +60,7 @@ is expected to be larger than the TSC.
 ## Lifecycle
 
 The Foundation shall encourage new Projects and innovation in the
-community. New Projects enter the Node.js Foundation through a
+community. New Projects enter the ASC Software Organization through a
 [Proposal](#Proposal).
 
 The project should be considered mature and have a history of releases
@@ -78,13 +76,6 @@ All TLPs and WGs must use a participatory decision making process. All
 TLP TCs must ensure they are accurately representing the WGs in their
 TLP.
 
-### Security
-
-All projects in the foundation share the same base security policy. The
-foundation's security team triages issues sent to security@nodejs.org.
-Top-Level Projects, whether in the incubator or not, are expected to
-maintain a private security repository where the security team can bring
-project-specific issues.
 
 ## Top-Level Projects
 
@@ -93,12 +84,12 @@ Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making)
 process and are responsible for documenting and keeping up to date their
 current processes and practices.
 
-Each TLP TC must elect a representative to the Node.js Foundation TSC or
+Each TLP TC must elect a representative to the ASC Software Organization TSC or
 vote to abstain from representation on the TSC.
 
 ## Applying to join
 
-A proposal to join the Node.js Foundation as a top-level Project or
+A proposal to join the ASC Software Organization as a top-level Project or
 Working Group must include:
 
 * Introduction and project description.
@@ -115,12 +106,11 @@ and community.
 * List of initial TC members.
 * List of initial Working Groups.
 * Prior to being admitted the project:
- * Must include
- [DCO](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#developers-certificate-of-origin).
+ * Must include [DCO]().
  * Must include approved license. If it is not currently under an
  approved license it will need to be cleared by the TSC and the Node.js
  Foundation Legal Committee prior to acceptance in to the incubator.
- * Must include a [Code of Conduct](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-of-conduct).
+ * Must include a [Code of Conduct](https://usgs-astrogeology.github.io/code/).
 
 Each proposal should be sent as a pull request to this repository in the
 Applications directory. Proposals do not have to be complete to be
@@ -129,12 +119,11 @@ communities in each Pull Request.
 
 ### Approved Licenses
 
-At this time the foundation is only accepting projects which use an MIT,
-BSD, ISC or Apache2 license.
+At this time the ASC Software Organization is only accepting projects which use an MIT,
+BSD, ISC, Apache2, or UnLicense license.
 
 ### Admittance
-
-The Node.js Foundation is quite new and currently has limited resources
+The ASC Software Organization is quite new and currently has limited resources
 available to mentor new projects. As such, projects are chosen for
 admission in groups as mentors become available.
 

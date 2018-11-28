@@ -1,8 +1,8 @@
-# Node.js Community Contributing Guide 1.0
+# ASC Software Organization Community Contributing Guide 1.0
 
 This document describes a very simple process suitable for most projects
-in the Node.js ecosystem. Projects are encouraged to adopt this whether they
-are hosted in the Node.js Foundation or not.
+in the ASC Software Organization ecosystem. Projects are encouraged to adopt this whether they
+are hosted in the ASC Software Organization or not.
 
 The goal of this document is to create a contribution process that:
 
@@ -12,8 +12,6 @@ The goal of this document is to create a contribution process that:
 * Creates a transparent decision making process which makes it clear how
 contributors can be involved in decision making.
 
-This document is based on much prior art in the Node.js community, io.js,
-and the Node.js project.
 
 ## Vocabulary
 

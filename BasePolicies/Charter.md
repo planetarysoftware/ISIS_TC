@@ -8,7 +8,7 @@ charter is landed and merged into the relevant WORKING_GROUPS.md document
 
 ### Template: *[insert WG name]* Working Group
 
-The Node.js *[insert WG name]* Working Group is jointly governed by the members
+The ASC Software Organization *[insert WG name]* Working Group is jointly governed by the members
 of that Working Group (WG).
 
 The WG responsibilities include:
@@ -22,5 +22,5 @@ The WG responsibilities include:
 
 For the current list of WG members, see the project [README.md][].
 
-[TSC]: https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md
+[TSC]: https://github.com/USGS-Astrogeology/TSC/blob/master/WORKING_GROUPS.md
 [README.md]: ./README.md#current-project-team-members
