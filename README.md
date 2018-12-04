@@ -26,8 +26,9 @@ document and ship ASC Software releases.
 
 These projects are located in the following repositories:
 
+* https://github.com/USGS-Astrogeology/isis3_dependencies
 * https://github.com/USGS-Astrogeology/TSC
-* https://github.com/USGS-Astrogeology/SpiceRefactor - currently under incubation
+* https://github.com/USGS-Astrogeology/eal - currently under incubation
 
 ### Adjacent Projects
 
@@ -53,6 +54,8 @@ include:
 * https://github.com/USGS-Astrogeology/CSM-Swig
 * https://github.com/USGS-Astrogeology/autocnet
 * https://github.com/USGS-Astrogeology/plio
+* https://github.com/USGS-Astrogeology/PyHAT
+* https://github.com/USGS-Astrogeology/ISIS3_mission_processing_scripts
 
 ### List of TSC Responsibilities
 
