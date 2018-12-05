@@ -83,7 +83,7 @@ including:
 * Conduct guidelines.
 * Maintaining the list of additional Collaborators.
 * Development process and any coding standards.
-* Mediating technical conflicts between Collaborators or Foundation
+* Mediating technical conflicts between Collaborators or ASC Organization
 projects.
 
 The TSC will define ASC Software Organization's release vehicles and serve as
@@ -151,7 +151,7 @@ additional Collaborators who are added by the TSC on an ongoing basis.
 Individuals making significant and valuable contributions,
 “Contributor(s)”, are made Collaborators and given commit-access to the
 project. These individuals are identified by the TSC and their addition
-as Collaborators is discussed during the weekly TSC meeting.
+as Collaborators is discussed during the monthly TSC meeting.
 Modifications of the contents of the git repository are made on a
 collaborative basis as defined in the development process.
 
