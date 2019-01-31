@@ -16,7 +16,7 @@ responsibilities as defined below.
 ### ASC Core
 
 *ASC Core* is defined as the contents of the repository located at
-<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS3 low-level API and applications. As the ASC continues to modularize ISIS3 and explores potential name changes this document will be updated to point to the ASC core software capabilities.
+<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS3 low-level API and applications. As the ASC continues to modularize ISIS3 and explores potential name changes this document will be updated appropriately.
 
 ### Dependent Projects
 
@@ -39,8 +39,7 @@ the TSC or are adopted into that organization from outside.
 
 In the case of adopting existing projects, once the TSC has decided that
 adoption appropriate, it should seek agreement from the ASC Management Team
-for such adoption as it impacts on the scope of technical activities of the
-Foundation.
+for such adoption as it impacts on the scope of technical activities.
 
 If the ASC Management Team wishes to adopt an existing project, it must
 seek agreement from the TSC that such adoption is appropriate and that any
@@ -94,7 +93,7 @@ Projects, Top Level Working Groups, and advocating for any needs in the
 technical side of the foundation to the ASC Management Team.
 
 TSC members can nominate new members at any time. Candidates for membership tend
-to be people who have a competancy for community management and a high tolerance
+to be people who have a competency for community management and a high tolerance
 and patience for process minutiae as the TSC delegates most of its responsibilities
 to other projects and working groups.
 
@@ -134,11 +133,11 @@ The pull request can be labeled `tsc-agenda` to request that it be put on the
 agenda for the next TSC meeting.
 
 The ASC Management Team retains certain rights (especially
-legal considerations). If the TSC endorses a proposal, they will escalate to the
-ASC Management Team when required to do so.
+legal considerations). If the TSC endorses a proposal, they will escalate this proposal
+to the ASC Management Team when required to do so.
 
 In some cases, existing individual groups have the right to refuse changes to
-their charters. The TSC can not mandate existing working groups alter their
+their charters. The TSC cannot mandate existing working groups alter their
 charters. If such a situation arises, the TSC may decide to revoke the group's
 charter.
 

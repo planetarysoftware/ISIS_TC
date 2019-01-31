@@ -1,8 +1,8 @@
-# Technical Steering Committee (TSC) Charter
+﻿# Technical Steering Committee (TSC) Charter
 
 ## Section 1. Guiding Principle.
 
-The USGS Astrogeology Science Center (ASC) Software Organization will operate transparently, openly,
+The USGS Astrogeology Science Center (ASC) Software Organization will operate transparently, openly, inclusively, 
 collaboratively, and ethically. Project proposals, timelines, and status
 must not merely be open, but also easily visible to outsiders.
 
@@ -13,16 +13,16 @@ technical governance model. ASC’s technical leadership
 is the Technical Steering Committee (“TSC”). ASC’s business
 leadership is comprised of the USGS ASC Management Team.
 
-This Technical Steering Committee Charter reflects a carefully
-constructed balanced role for the TSC and the ASC Management Team in the governance of
-the ASC Software Organization. The charter amendment process is for the TSC to
-propose changes using simple majority of the full TSC, the proposed
+This Technical Steering Committee Charter reflects carefully
+constructed balanced roles for the TSC and the ASC Management Team in the governance of
+the ASC Software Organization. The charter amendment process is the means by which the TSC
+proposes changes to this charter using simple majority of the full TSC, the proposed
 changes being subject to review and approval by the ASC Management Team. The ASC Management Team may
 additionally make amendments to the TSC charter at any time, though the
 ASC Management Team will not interfere with day-to-day discussions, votes or meetings
 of the TSC.
 
-## Section 3. ASC Management Teams’s Role in Setting the ASC Software Ogranization’s Strategic Direction.  
+## Section 3. ASC Management Team’s Role in Setting the ASC Software Organization’s Strategic Direction.  
 
 The ASC Management Team will set the overall TSC Policy. The policy will describe the
 overarching scope of the ASC Software Organization initiative, ASC’s technical vision and direction and project release
@@ -32,7 +32,7 @@ individual project scope and direction while they remain within the scope
 and direction of the policies as described in the TSC Policy document and
 approved by the ASC Management Team.
 
-In setting overall technical vision and direction, the ASC Management Team will maintain final judgement on the inclusion of capability within the ASC managed community. Capability can be code, processing pipelines, or services to be added to an existing ASC Software Organization project or as a new project under the ASC Software Organization. The TSC will provide guidance to the ASC Management Team concerning the technical feasability and maintainability of projects to support the ASC Management Team in making an informed decision.
+In setting overall technical vision and direction, the ASC Management Team will maintain final judgement on the inclusion of capability within the ASC managed community. Capability can be code, processing pipelines, or services to be added to an existing ASC Software Organization project or as a new project under the ASC Software Organization. The TSC will provide guidance to the ASC Management Team concerning the technical feasibility and maintainability of projects to support the ASC Management Team in making an informed decision.
 
 ## Section 4. Establishment of the TSC.
 
@@ -47,8 +47,8 @@ TSC by a standard TSC motion and vote. A TSC member may be removed from the
 TSC by voluntary resignation, by a standard TSC motion, or in accordance to the
 participation rules described below.
 
-Changes to TSC membership should be posted in the agenda, and may be suggested
-as any other agenda item.
+Changes to TSC membership should be posted in the agenda, and will be then discussed
+at the next TSC meeting when all members are able to attend.
 
 The TSC may, at its discretion, invite any number of non-voting observers to
 participate in the public portion of TSC discussions and meetings.
@@ -57,13 +57,13 @@ The TSC shall meet regularly using tools that enable participation by the
 community (e.g. monthly on a Google Hangout On Air, or through any other
 appropriate means selected by the TSC). The meeting shall be directed by
 the TSC Chairperson. Responsibility for directing individual meetings may be
-delegated by the TSC Chairperson to any other TSC member. Minutes or an
-appropriate recording shall be taken and made available to the community
+delegated by the TSC Chairperson to any other TSC member. Minutes, or an
+appropriate recording, shall be taken and made available to the community
 through accessible public postings.
 
 TSC members are expected to regularly participate in TSC activities.
 
-In the case where an individual TSC member -- within any three month period --
+In the case where an individual TSC member -- within any three-month period --
 attends fewer than 25% of the regularly scheduled meetings, does not
 participate in TSC discussions, *and* does not participate in TSC votes, the
 member shall be automatically removed from the TSC. The member may be invited
@@ -82,7 +82,7 @@ including:
 * GitHub repository hosting.
 * Conduct guidelines.
 * Maintaining the list of additional Collaborators.
-* Development process and any coding standards.
+* Development process and coding standards.
 * Mediating technical conflicts between Collaborators or ASC Organization
 projects.
 
@@ -104,7 +104,7 @@ structure, including possibly the creation and alignment of sub-Projects.
 Each Project must be within such policies as may be set by the ASC Management Team,
 have a well-defined scope and must work within that scope. The
 development process will provide for Projects to follow the lifecycle
-process as described in the Project Lifecycle document. The development
+process as described in the [Project Lifecycle][] document. The development
 process will include a process for the TSC to oversee and approve changes
 in the lifecycle of a Project, which will include consideration of the
 following criteria:
@@ -145,14 +145,14 @@ changes to this charter are also subject to approval from the ASC Management Tea
 
 ## Section 8. Project Roles
 
-The ASC Software Organization git repository is maintained by the TSC and
+The ASC Software Organization Git repository is maintained by the TSC and
 additional Collaborators who are added by the TSC on an ongoing basis.
 
 Individuals making significant and valuable contributions,
 “Contributor(s)”, are made Collaborators and given commit-access to the
 project. These individuals are identified by the TSC and their addition
 as Collaborators is discussed during the monthly TSC meeting.
-Modifications of the contents of the git repository are made on a
+Modifications of the contents of the Git repository are made on a
 collaborative basis as defined in the development process.
 
 Collaborators may opt to elevate significant or controversial
@@ -175,6 +175,7 @@ rarely be encumbered by the TSC and never by the ASC Management Team.
 is organized through the project creation process and approved by the
 TSC.
 
+[Project Lifecycle]: https://github.com/USGS-Astrogeology/TSC/blob/master/Project-Lifecycle.md
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
 [Condorcet]: http://en.wikipedia.org/wiki/Condorcet_method
 [Single Transferable Vote]: http://en.wikipedia.org/wiki/Single_transferable_vote
