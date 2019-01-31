@@ -16,7 +16,7 @@ responsibilities as defined below.
 ### ASC Core
 
 *ASC Core* is defined as the contents of the repository located at
-<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS3 low-level API and applications. As the ASC modularized ISIS3 and explores potential name changes this document will be updated to point to the ASC core software capabilities.
+<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS3 low-level API and applications. As the ASC continues to modularize ISIS3 and explores potential name changes this document will be updated to point to the ASC core software capabilities.
 
 ### Dependent Projects
 
