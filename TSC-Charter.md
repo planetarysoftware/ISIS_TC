@@ -47,8 +47,9 @@ TSC by a standard TSC motion and vote. A TSC member may be removed from the
 TSC by voluntary resignation, by a standard TSC motion, or in accordance to the
 participation rules described below.
 
-Changes to TSC membership should be posted in the agenda, and may be suggested
-as any other agenda item.
+Changes to TSC membership should be posted in the agenda, and will be then discussed
+at the next TSC meeting. Any vote to change the TSC membership must remain open
+for at least a month. 
 
 The TSC may, at its discretion, invite any number of non-voting observers to
 participate in the public portion of TSC discussions and meetings.
