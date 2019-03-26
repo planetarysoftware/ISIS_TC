@@ -1,10 +1,10 @@
 # ASC Software Organization Project Lifecycle
 
-> This is a draft document that requires review and approval by the ASC Software Organiation TSC and the ASC Management Team.
+> This is a draft document that requires review and approval by the ASC Software Organization TSC and the ASC Management Team.
 
 ## Project Definition
 
-The ASC Software Organization hosts several "Top-Level Projects." These projects
+The ASC Software Organization hosts several "Top-Level Projects (TLPs)." These projects
 are autonomous from each other and governed by their own TC (Technical
 Committee) and chartered by the ASC TSC.
 
@@ -59,7 +59,7 @@ is expected to be larger than the TSC.
 
 ## Lifecycle
 
-The Foundation shall encourage new Projects and innovation in the
+The TSC shall encourage new Projects and innovation in the
 community. New Projects enter the ASC Software Organization through a
 [Proposal](#Proposal).
 
@@ -100,9 +100,9 @@ and community.
 * Current governance process.
 * Current contribution process.
 * List of current tools in use by the project (forums, issue trackers,
-  GitHub orgs, etc).
+  GitHub orgs, etc.).
 * Existing IP Policy and relevant intellectual property (trademarks,
-  domain names, etc).
+  domain names, etc.).
 * List of initial TC members.
 * List of initial Working Groups.
 * Prior to being admitted the project:
