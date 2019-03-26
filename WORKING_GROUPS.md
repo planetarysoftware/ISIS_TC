@@ -24,7 +24,7 @@ becomes the responsibility of the TSC.
 To find out how to join a working group, consult the GOVERNANCE.md in
 the working group's repository.
 
-## Starting A Core Working Group
+## Starting a Core Working Group
 
 A Working Group is established by first defining a charter  that can be
 ratified by the TSC. A charter is a *statement of purpose*, a
@@ -136,7 +136,7 @@ membership decisions.  If a WG member is unable to attend a meeting
 where a planned membership decision is being made, then their consent
 is assumed.
 
-No more than 1/3 of the WG members may be affiliated with the same
+It is strongly suggested that no more than 1/3 of the WG members be affiliated with the same
 employer.  If removal or resignation of a WG member, or a change of
 employment by a WG member, creates a situation where more than 1/3 of
 the WG membership shares an employer, then the situation must be
@@ -145,9 +145,11 @@ members affiliated with the over-represented employer(s).
 
 ### WG Meetings
 
-The WG meets weekly on a Google Hangout On Air. A designated moderator
-approved by the WG runs the meeting. Each meeting should be
-published to YouTube.
+The WG meets weekly using tools that enable participation by the
+community (e.g. monthly on a Google Hangout On Air, or through any other
+appropriate means selected by the WG). A designated moderator
+approved by the WG runs the meeting. Meeting notes will be distributed
+on the WG GitHub repository.
 
 Items are added to the WG agenda that are considered contentious or
 are modifications of governance, contribution policy, WG membership,
@@ -175,7 +177,7 @@ agenda item and sends it as a pull request after the meeting.
 
 ### Consensus Seeking Process
 
-The WG follows a [Consensus Seeking][] decision-making model.
+The WG follows a Consensus Seeking decision-making model.
 
 When an agenda item has appeared to reach a consensus the moderator
 will ask "Does anyone object?" as a final call for dissent from the
