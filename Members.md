@@ -4,4 +4,5 @@
 - [Ross Beyer](https://github.com/rbeyer)
 - [Jay Laura](https://github.com/jlaura)
 - [Jesse Mapel](https://github.com/jessemapel)
+- [Victor Silva](https://github.com/victoronline)
 - [Summer Stapleton](https://github.com/SgStapleton)
