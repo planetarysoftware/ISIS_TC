@@ -1,68 +1,60 @@
-# The ASC Software Organization Technical Steering Committee
+# The Integrated Software for Imagers and Spectrometers Technical Committee
 
-The ASC Software Organization Technical Steering Committee (TSC) is the technical
-governing body of the ASC Software Organization. It is described in the
-[TSC Charter][].
+The Integrated Software for Imagers and Spectrometers Technical Committee (TC)
+is the technical governing body of the ISIS Software Package. It is described
+in the [TC Charter][].
 
-## TSC Scope
+## TC Scope
 
-**The TSC is responsible for the ASC Core (ISIS3) project, a number of projects
-depended upon by ASC Core (ISIS3) project, and a number of adjacent projects.**
+**The TC is responsible for the ISIS project, a number of projects
+depended upon by ISIS project, and a number of adjacent projects.**
 
-The TSC exercises autonomy in managing its responsibilities and seeks agreement
+The TC exercises autonomy in managing its responsibilities and seeks agreement
 from the ASC Management Team on any change to the scope of those
 responsibilities as defined below.
 
-### ASC Core
+### ISIS
 
-*ASC Core* is defined as the contents of the repository located at
-<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS3 low-level API and applications. As the ASC continues to modularize ISIS3 and explores potential name changes this document will be updated appropriately.
+*ISIS* is defined as the contents of the repository located at
+<https://github.com/USGS-Astrogeology/ISIS3>. This is the location of the ISIS
+low-level API and applications. As the ASC continues to modularize ISIS and
+explores potential name changes this document will be updated appropriately.
 
 ### Dependent Projects
 
-Additional projects fall within the TSC's scope of responsibility which are
+Additional projects fall within the TC's scope of responsibility which are
 dependencies of ASC Core in that they are **required** to plan, test, build,
 document and ship ASC Software releases.
 
 These projects are located in the following repositories:
 
 * https://github.com/USGS-Astrogeology/isis3_dependencies
-* https://github.com/USGS-Astrogeology/TSC
-* https://github.com/USGS-Astrogeology/eal - currently under incubation
 
 ### Adjacent Projects
 
-The TSC is responsible for a number of projects that are not strictly required
-to plan, test, build, document and ship ASC Core releases. Projects that are
+The TC is responsible for a number of projects that are not strictly required
+to plan, test, build, document and ship ISIS releases. Projects that are
 _adjacent_ are either created from within the technical organization managed by
-the TSC or are adopted into that organization from outside.
+the TC or are adopted into that organization from outside.
 
-In the case of adopting existing projects, once the TSC has decided that
+In the case of adopting existing projects, once the TC has decided that
 adoption appropriate, it should seek agreement from the ASC Management Team
 for such adoption as it impacts on the scope of technical activities.
 
 If the ASC Management Team wishes to adopt an existing project, it must
-seek agreement from the TSC that such adoption is appropriate and that any
+seek agreement from the TC that such adoption is appropriate and that any
 changes to scope that it entails are acceptable.
 
-Current adjacent projects that are within the TSC's scope of responsibility
+Current adjacent projects that are within the TC's scope of responsibility
 include:
 
-* https://github.com/USGS-Astrogeology/CSM-CameraModel
-* https://github.com/USGS-Astrogeology/csm
-* https://github.com/USGS-Astrogeology/CSM-Swig
-* https://github.com/USGS-Astrogeology/autocnet
-* https://github.com/USGS-Astrogeology/plio
-* https://github.com/USGS-Astrogeology/PyHAT
-* https://github.com/USGS-Astrogeology/ISIS3_mission_processing_scripts
+### List of TC Responsibilities
 
-### List of TSC Responsibilities
-
-The TSC exercises autonomy in setting up and maintaining procedures, policies,
+The TC exercises autonomy in setting up and maintaining procedures, policies,
 and management and administrative structures as it deems appropriate for the
 maintenance and operation of these projects and resources.
 
-Included in the responsibilities of the TSC are:
+Included in the responsibilities of the TC are:
 
 * Managing code and documentation creation and changes for the listed projects
   and resources
@@ -70,45 +62,43 @@ Included in the responsibilities of the TSC are:
   documentation and other materials
 * Managing code and binary releases: types, schedules, frequency, delivery
   mechanisms
-* Making decisions regarding dependencies of the ASC Core project,
+* Making decisions regarding dependencies of the ISIS project,
   including what those dependencies are and how they are bundled with source
   code and releases
-* Creating new repositories and projects under the _USGS-Astrogeology_ GitHub organization
-  as required
-* Setting overall technical direction for the ASC Core project, including
+* Setting overall technical direction for the ISIS project, including
   high-level goals and low-level specifics regarding features and functionality
 * Setting and maintaining appropriate standards for community discourse via the
-  various mediums under TSC control
+  various mediums under TC control
 * Setting and maintaining governance rules for the conduct and make-up of the
-  TSC, Working Groups and other bodies within the TSC's domain
+  TC, Working Groups and other bodies within the TC's domain
 
-Many of these responsibilities will be delegated by the TSC to appropriate
+Many of these responsibilities will be delegated by the TC to appropriate
 bodies such as the Working Groups.
 
-## TSC Members
+## TC Members
 
-TSC members are responsible for top level technical community concerns. The role
+TC members are responsible for top level technical community concerns. The role
 is mostly administrative and is responsible for admitting new Top Level
 Projects, Top Level Working Groups, and advocating for any needs in the
 technical side of the foundation to the ASC Management Team.
 
-TSC members can nominate new members at any time. Candidates for membership tend
+TC members can nominate new members at any time. Candidates for membership tend
 to be people who have a competency for community management and a high tolerance
-and patience for process minutiae as the TSC delegates most of its responsibilities
+and patience for process minutiae as the TC delegates most of its responsibilities
 to other projects and working groups.
 
-A [current list of TSC members](https://github.com/USGS-Astrogeology/TSC/blob/master/Members.md)
-is maintained in the main TSC repository.
+A [current list of TC members](https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/Members.md)
+is maintained in the main TC repository.
 
 ## Strategic Initiatives
 
 At any one time the ASC Software projects have a number of strategic initiatives
-underway.  The goal of the TSC is to have a champion for each of these
+underway.  The goal of the TC is to have a champion for each of these
 initiatives and to support the initiatives in order to enable their
 success.
 
 For more information look here:
-[Strategic Initiatives](https://github.com/USGS-Astrogeology/TSC/blob/master/Strategic-Initiatives.md)
+[Strategic Initiatives](https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/Strategic-Initiatives.md)
 
 ## Top-Level WGs and TLPs
 
@@ -119,27 +109,27 @@ For more information look here:
 
 ## Policy Change Proposal Process
 
-The ASC TSC is chartered to oversee the technical governance of all Top
-Level Projects and Working Groups under the ASC Software Organization. The TSC
+The TC is chartered to oversee the technical governance of all Top
+Level Projects and Working Groups under the ISIS Software Package. The TC
 establishes the default governance, conduct, and licensing policies for all Top
 Level Projects. Top Level Projects and Working Groups have broad powers of
 self-governance.
 
 To propose a change or addition to policies or processes that are intended to
 cover all Top Level Projects and Working Groups in the foundation, a PR should
-be opened in the `USGS-Astrogeology/TSC` repository.
+be opened in the `USGS-Astrogeology/ISIS_TC` repository.
 
-The pull request can be labeled `tsc-agenda` to request that it be put on the
-agenda for the next TSC meeting.
+The pull request can be labeled `tc-agenda` to request that it be put on the
+agenda for the next TC meeting.
 
-The ASC Management Team retains certain rights (especially
-legal considerations). If the TSC endorses a proposal, they will escalate this proposal
+The ASC Management Team retains certain rights (especially legal considerations).
+If the TC endorses a proposal, they will escalate this proposal
 to the ASC Management Team when required to do so.
 
 In some cases, existing individual groups have the right to refuse changes to
-their charters. The TSC cannot mandate existing working groups alter their
-charters. If such a situation arises, the TSC may decide to revoke the group's
+their charters. The TC cannot mandate existing working groups alter their
+charters. If such a situation arises, the TC may decide to revoke the group's
 charter.
 
-[TSC Charter]: https://github.com/USGS-Astrogeology/TSC/blob/master/TSC-Charter.md
+[TC Charter]: https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/TC-Charter.md
 [Project Lifecycle.md]: ./Project-Lifecycle.md
