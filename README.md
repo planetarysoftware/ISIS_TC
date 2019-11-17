@@ -39,7 +39,7 @@ the TC or are adopted into that organization from outside.
 
 In the case of adopting existing projects, once the TC has decided that
 adoption appropriate, it should seek agreement from the ASC Management Team
-for such adoption as it impacts on the scope of technical activities.
+for such adoption as it impacts the scope of technical activities.
 
 If the ASC Management Team wishes to adopt an existing project, it must
 seek agreement from the TC that such adoption is appropriate and that any
