@@ -51,8 +51,7 @@ areas of expertise, balanced with the ability to make decisions efficiently.
 The TC must have at least three members.
 
 There is no specific set of requirements or qualifications for TC
-membership beyond these rules. The TC may add additional members to the
-TC by a standard TC motion and vote. A TC member may be removed from the
+membership beyond these rules. The TC may add additional members by a standard TC motion and vote. A TC member may be removed from the
 TC by voluntary resignation, by a standard TC motion, or in accordance to the
 participation rules described below.
 
@@ -91,7 +90,7 @@ including:
 * Project governance and process (including this policy).
 * GitHub repository hosting.
 * Conduct guidelines.
-* Maintaining the list of additional Collaborators.
+* Maintaining the list of Collaborators.
 * Development process and coding standards.
 * Mediating technical conflicts between Collaborators.
 
