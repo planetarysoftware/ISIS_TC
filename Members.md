@@ -1,9 +1,13 @@
-# Members of the TSC
+# Members of the ISIS TC
 
+- [Andrew Annex](https://github.com/AndrewAnnex)
 - [Michael Aye](https://github.com/michaelaye)
 - [Ross Beyer](https://github.com/rbeyer)
+- [Mario D'Amore]
+- [Audrie Fennema](https://github.com/audiefen)
+- [Robin Fergason](https://github.com/rfergason)
 - [Jay Laura](https://github.com/jlaura)
 - [Jesse Mapel](https://github.com/jessemapel)
+- [Stuart Robbins](https://github.com/astrostu)
 - [Victor Silva](https://github.com/victoronline)
 - [Summer Stapleton](https://github.com/SgStapleton)
-- [Andrew Annex](https://github.com/AndrewAnnex)
