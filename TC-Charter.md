@@ -64,9 +64,7 @@ participate in the public portion of TC discussions and meetings.
 
 The TC shall meet regularly using tools that enable participation by the
 community (e.g. monthly on a Google Hangout On Air, or through any other
-appropriate means selected by the TC). The meeting shall be directed by
-the TC Chairperson. Responsibility for directing individual meetings may be
-delegated by the TC Chairperson to any other TC member. Minutes, or an
+appropriate means selected by the TC). Minutes, or an
 appropriate recording, shall be taken and made available to the community
 through accessible public postings.
 
