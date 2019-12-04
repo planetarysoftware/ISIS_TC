@@ -9,4 +9,5 @@
 - [Jay Laura](https://github.com/jlaura)
 - [Jesse Mapel](https://github.com/jessemapel)
 - [Stuart Robbins](https://github.com/astrostu)
+- [Stuart Sides](https://github.com/scsides)
 - [Victor Silva](https://github.com/victoronline)
