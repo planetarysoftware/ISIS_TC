@@ -2,6 +2,7 @@
 
 - [Andrew Annex](https://github.com/AndrewAnnex)
 - [Michael Aye](https://github.com/michaelaye)
+- [Kris Becker](https://github.com/KrisBecker)
 - [Ross Beyer](https://github.com/rbeyer)
 - [Mario D'Amore](https://github.com/kidpixo)
 - [Audrie Fennema](https://github.com/audiefen)
