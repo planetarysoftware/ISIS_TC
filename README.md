@@ -82,12 +82,7 @@ is mostly administrative and is responsible for admitting new Top Level
 Projects, Top Level Working Groups, and advocating for any needs in the
 technical side of the foundation to the ASC Management Team.
 
-TC members can nominate new members at any time. Candidates for membership tend
-to be people who have a competency for community management and a high tolerance
-and patience for process minutiae as the TC delegates most of its responsibilities
-to other projects and working groups.
-
-A [current list of TC members](https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/Members.md)
+TC members can nominate new members at any time. A [current list of TC members](https://github.com/USGS-Astrogeology/ISIS_TC/blob/master/Members.md)
 is maintained in the main TC repository.
 
 ## Strategic Initiatives
