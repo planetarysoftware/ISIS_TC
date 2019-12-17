@@ -9,19 +9,19 @@ easily visible to outsiders.
 
 ## Section 2. Evolution of ISIS Software Project Governance.
 
-Most large, complex open source communities have both a business and a
-technical governance model. ISIS’s technical leadership
-is the Technical Committee (“TC”). ISIS’s business
-leadership is comprised of the USGS ASC Management Team.
+Most large, complex open source projects have a community of motivated 
+contributors and a set of supporting policies that describe how the
+community strives to operate (e.g. the technical governance model).
+Technical leadership for the ISIS project is the Technical Committee (TC).  
+The ISIS project's contributor community are all of those participants making 
+substantive contributions.
 
-This Technical Committee Charter reflects carefully constructed balanced roles
-for the TC and the ASC Management Team in the governance of the ISIS Software
-Package. The charter amendment process is the means by which the TC
-proposes changes to this charter using simple majority of the full TC, the
-proposed changes being subject to review and approval by the ASC Management
-Team. The ASC Management Team may additionally make amendments to the TC
-charter at any time, though the ASC Management Team will not interfere with
-day-to-day discussions, votes or meetings of the TC.
+The TC's role is to set policy, carry out those responsibilities detailed in this
+Charter, and potentially mediate charged or contentious concerns between contributors. 
+The contributing community takes overall technical ownership of the project and are the 
+'doers' that get the tangible work done that users depend upon. The contributing community
+and TC work together to define, maintain, and uphold the community norms.  The TC
+will codify those norms as project policies to ensure shared expectations.
 
 ## Section 3. ASC Management Team’s Role in Setting the ISIS Software Project’s Strategic Direction.  
 
