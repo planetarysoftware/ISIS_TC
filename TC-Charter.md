@@ -153,8 +153,8 @@ Management Team.
 
 ## Section 8. Project Roles
 
-The ISIS Software Project Git repository is maintained by the TC and
-additional Collaborators who are added by the TC on an ongoing basis.
+The TC shall set the policy for where the official software repository should
+be maintained.
 
 Individuals making significant and valuable contributions,
 “Contributor(s)”, are made Collaborators and given commit-access to the
@@ -165,8 +165,8 @@ collaborative basis as defined in the development process.
 
 Collaborators may opt to elevate significant or controversial
 modifications, or modifications that have not found consensus to the TC
-for discussion by assigning the `tc-agenda` tag to a pull request or
-issue. The TC should serve as the final arbiter where required. The TC
+for discussion by submitting a pull request to the next TC meeting agenda.
+The TC should serve as the final arbiter where required. The TC
 will maintain and publish a list of current Collaborators by Project, as
 well as a development process guide for Collaborators and Contributors
 looking to participate in the development effort.
