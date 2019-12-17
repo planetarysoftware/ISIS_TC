@@ -147,9 +147,6 @@ discussion will continue.
 For all votes, a simple majority of all TC members for, or against, the issue
 wins. A TC member may choose to participate in any vote through abstention.
 
-Note that, in addition to requiring a simple majority vote of the TC, all
-changes to this charter are also subject to approval from the ASC
-Management Team.
 
 ## Section 8. Project Roles
 
