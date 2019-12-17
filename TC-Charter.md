@@ -51,21 +51,19 @@ areas of expertise, balanced with the ability to make decisions efficiently.
 The TC must have at least three members.
 
 There is no specific set of requirements or qualifications for TC
-membership beyond these rules. The TC may add additional members by a standard TC motion and vote. A TC member may be removed from the
-TC by voluntary resignation, by a standard TC motion, or in accordance to the
-participation rules described below.
+membership beyond these rules. The TC may add additional members by consensus. If there are any objections to adding any individual member, an attempt should be made to resolve those objections following the Consensus Seeking Process. A TC member may be removed from the TC by voluntary resignation, or by consensus of all other members.
 
-Changes to TC membership should be posted in the agenda, and will be then discussed
-at the next TC meeting. Any vote to change the TC membership must remain open
-for at least a month.
+Changes to TC membership should be posted in the agenda, and may be suggested as any other agenda item.
+
+If an addition or removal is proposed during a meeting, and the full TC is not in attendance to participate, then the addition or removal is added to the agenda for the subsequent meeting. This is to ensure that all members are given the opportunity to participate in all membership decisions. If a TC member is unable to attend a meeting where a planned membership decision is being made, then their consent is assumed.
+
+No more than half of the TC members may be affiliated with the same employer. If removal or resignation of a TC member, or a change of employment by a member, creates a situation where more than half of the membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
 
 The TC may, at its discretion, invite any number of non-voting observers to
 participate in the public portion of TC discussions and meetings.
 
 The TC shall meet regularly using tools that enable participation by the
-community (e.g. monthly on a Google Hangout On Air, or through any other
-appropriate means selected by the TC). Minutes, or an
-appropriate recording, shall be taken and made available to the community
+community. Minutes, or an appropriate recording, shall be taken and made available to the community
 through accessible public postings.
 
 TC members are expected to regularly participate in TC activities.
