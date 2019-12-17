@@ -96,18 +96,18 @@ source projects, consortiums and groups.
 
 ## Section 6. ISIS Software Project Operations.
 
-The TC will establish and maintain a development process for ISIS Software
-Package's Projects. The development process will establish guidelines
+The TC will establish and maintain a development process for the ISIS 
+Project. The development process will establish guidelines
 for how the developers and community will operate. It will, for example,
 establish appropriate timelines for TC review (e.g. agenda items must be
 published at least a certain number of hours in advance of a TC
 meeting).
 
-There will be multiple Projects under the ISIS Software Project organized by
+There will be multiple Projects under the ISIS Project organized by
 modules or subsystems. The TC is responsible for organizing the Project
 structure, including possibly the creation and alignment of sub-Projects.
-Each Project must be within such policies as may be set by the ASC
-Management Team, have a well-defined scope and must work within that scope.
+Each Project must be within such policies as may be set by the TC, have a 
+well-defined scope and must work within that scope.
 The development process will provide for Projects to follow the lifecycle
 process as described in the [Project Lifecycle][] document. The development
 process will include a process for the TC to oversee and approve changes
@@ -122,8 +122,8 @@ the project.
 * Predictability of releases
 * Alignment with ISIS Software Project’s goals and priorities.
 
-The TC and entire technical community will follow any processes as may
-be specified by the ASC Management Team relating to the intake and license
+The contributing community will follow any processes as may
+be specified by the TC relating to the intake and license
 compliance review of contributions.
 
 ## Section 7. Voting
