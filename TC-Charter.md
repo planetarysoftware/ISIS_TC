@@ -23,27 +23,7 @@ The contributing community takes overall technical ownership of the project and 
 and TC work together to define, maintain, and uphold the community norms.  The TC
 will codify those norms as project policies to ensure shared expectations.
 
-## Section 3. ASC Management Team’s Role in Setting the ISIS Software Project’s Strategic Direction.  
-
-The ASC Management Team will set the overall TC Policy. The policy will
-describe the overarching scope of the ISIS Software Project initiative,
-ISIS’s technical vision and direction and project release expectations in
-the form of expected cadence and intent. The ASC Management Team will use
-the TC as a delegate body for governing technical implementation,
-individual project scope and direction while they remain within the scope
-and direction of the policies as described in the TC Policy document and
-approved by the ASC Management Team.
-
-In setting overall technical vision and direction, the ASC Management Team
-will maintain final judgement on the inclusion of capability within the ISIS
-Software Package. Capability can be code, processing pipelines, or services
-to be added to an existing top level project or as a new top level project
-under the ISIS Software Project. The TC will provide guidance to
-the ASC Management Team concerning the technical feasibility and
-maintainability of projects to support the ASC Management Team in making
-an informed decision.
-
-## Section 4. Establishment of the TC.
+## Section 3. Establishment of the TC.
 
 TC memberships are not time-limited. There is no maximum size of the TC.
 The size is expected to vary in order to ensure adequate coverage of important
@@ -74,7 +54,7 @@ participate in TC discussions, *and* does not participate in TC votes, the
 member shall be automatically removed from the TC. The member may be invited
 to continue attending TC meetings as an observer.
 
-## Section 5. Responsibilities of the TC.  
+## Section 4. Responsibilities of the TC.  
 
 Subject to such policies as may be set by the ASC Management Team, the TC is
 responsible for all technical development within the ISIS Software Project,
@@ -94,7 +74,7 @@ The TC will define the ISIS Software Project's release vehicles and serve as
 ISIS Software Project’s primary technical liaison body with external open
 source projects, consortiums and groups.
 
-## Section 6. ISIS Software Project Operations.
+## Section 5. ISIS Software Project Operations.
 
 The TC will establish and maintain a development process for the ISIS 
 Project. The development process will establish guidelines
@@ -126,7 +106,7 @@ The contributing community will follow any processes as may
 be specified by the TC relating to the intake and license
 compliance review of contributions.
 
-## Section 7. Voting
+## Section 6. Voting
 
 For internal project decisions, Collaborators shall operate under Lazy
 Consensus. The TC shall establish appropriate guidelines for
@@ -146,7 +126,7 @@ For all votes, a simple majority of all TC members for, or against, the issue
 wins. A TC member may choose to participate in any vote through abstention.
 
 
-## Section 8. Project Roles
+## Section 7. Project Roles
 
 The TC shall set the policy for where the official software repository should
 be maintained.
@@ -166,7 +146,7 @@ will maintain and publish a list of current Collaborators by Project, as
 well as a development process guide for Collaborators and Contributors
 looking to participate in the development effort.
 
-## Section 9. Definitions
+## Section 8. Definitions
 
 * **Contributors**: contribute code or other artifacts, but do not have
 the right to commit to the code base. Contributors work with the
