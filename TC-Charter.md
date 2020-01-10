@@ -56,18 +56,14 @@ to continue attending TC meetings as an observer.
 
 ## Section 4. Responsibilities of the TC.  
 
-Subject to such policies as may be set by the ASC Management Team, the TC is
-responsible for all technical development within the ISIS Software Project,
-including:
+The TC is responsible for defining project scope and codifying technical policies in support of the contributors to the ISIS Software Project. Responsibilties include the development and maintenance of policies and procedures to support:
 
-* Setting release dates.
-* Release quality standards.
-* Technical direction.
+* Release processes (including setting release cadence and release quality standards).
 * Project governance and process (including this policy).
-* GitHub repository hosting.
+* Location of the official software repository.
 * Conduct guidelines.
-* Maintaining the list of Collaborators.
-* Development process and coding standards.
+* Maintaining the list of contributors.
+* Contribution guidelines (including coding and testing standards).
 * Mediating technical conflicts between Collaborators.
 
 The TC will define the ISIS Software Project's release vehicles and serve as
