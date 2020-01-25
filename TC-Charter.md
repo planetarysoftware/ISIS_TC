@@ -84,8 +84,7 @@ modules or subsystems. The TC is responsible for organizing the Project
 structure, including possibly the creation and alignment of sub-Projects.
 Each Project must be within such policies as may be set by the TC, have a 
 well-defined scope and must work within that scope.
-The development process will provide for Projects to follow the lifecycle
-process as described in the [Project Lifecycle][] document. The development
+The development process will provide a lifecycle process for Projects to follow as described in the [Project Lifecycle][] document. The development
 process will include a process for the TC to oversee and approve changes
 in the lifecycle of a Project, which will include consideration of the
 following criteria:
