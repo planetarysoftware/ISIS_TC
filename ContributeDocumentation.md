@@ -3,15 +3,15 @@
 This document describes how to contribute changes to the ISIS Application Documentation, which is available online for the most recent ISIS release at: https://isis.astrogeology.usgs.gov/Application/index.html
 
 # Getting Started
-Documentation for ISIS applications is located within the ISIS source code and written in XML. The XML is processed to create the documentation that can be viewed on the ISIS website at: https://isis.astrogeology.usgs.gov/Application/index.html
+Documentation for ISIS applications is located within the ISIS source code and written in XML. Specifically, documentation for each ISIS application is located in the same directory as the source code for the application and is named `name_of_application.xml`. The XML is processed to create the documentation that can be viewed on the ISIS website at: https://isis.astrogeology.usgs.gov/Application/index.html
 
-For many documentation contributions, very little understanding of XML is required. Changes in existing wording or additional information can be added where appropriate in the current documentation without needing to change any of the XML. 
+For many documentation contributions, very little understanding of XML is required. Changes in wording or additional information can be added where appropriate in the current documentation's XML files without needing to change the structure of the XML in the file. 
 
 Since the ISIS documentation is located within the source code, the first step is to create a local copy of the ISIS source code to work with. To do the necessary initial setup, first complete the steps in [Getting Started with Github](https://github.com/USGS-Astrogeology/ISIS3/wiki/Developing-ISIS3-with-cmake#getting-started-with-github), then move on to [Anaconda and ISIS3 Dependencies](https://github.com/USGS-Astrogeology/ISIS3/wiki/Developing-ISIS3-with-cmake#getting-started-with-github). 
  
 # Making Your Documentation Change
 
-Documentation for each ISIS application is located in the same directory as the source code for the application itself and is named `name_of_application.xml` For example, to update the documentation for voy2isis, go to `ISIS3/isis/src/voyager/apps/voy2isis` in your clone and begin editing `voy2isis.xml`. To make your documentation change, open the xml file in the text editor of your choice, and edit the text to make your update. Most documentation changes will be made in the `<description>` section of the XML file, which creates the "Description" section on the built html documentation.
+Since documentation for each application is located in the same directory as the source code for the application, look in this directory for the application documentation xml file to edit. For example, to update the documentation for voy2isis, go to `ISIS3/isis/src/voyager/apps/voy2isis` in your clone and begin editing `voy2isis.xml`. To make your documentation change, open the xml file in the text editor of your choice, and edit the text to make your update. Most documentation changes will be made in the `<description>` section of the XML file, which creates the "Description" section on the built html documentation.
 
 # How to Preview Your Change
 
@@ -23,31 +23,17 @@ a new ISIS build.
 
 ### Creating a New ISIS build: 
 
-Building ISIS requires that the anaconda environment you created in [Anaconda and ISIS3 Dependencies](https://github.com/USGS-Astrogeology/ISIS3/wiki/Developing-ISIS3-with-cmake#anaconda-and-isis3-dependencies) be activated.
+First, make sure the last step in [Anaconda and ISIS3 Dependencies](https://github.com/USGS-Astrogeology/ISIS3/wiki/Developing-ISIS3-with-cmake#anaconda-and-isis3-dependencies) (`conda activate <environment name>`) was completed in your current terminal window.
 
-Activate your anaconda environment with:
+Next, to get set up to build the ISIS documentation, follow the instructions at [Building ISIS3](https://github.com/USGS-Astrogeology/ISIS3/wiki/Developing-ISIS3-with-cmake#building-isis3) up to 
+and including the "Set your ISISROOT" step. It is not necessary to complete the next step (`ninja install`) to 
+only build the documentation. It is not necessary to build the rest of ISIS to build and preview documentation-only changes. 
 
-`conda activate <environment-name>`
-
-* Navigate to the top-level directory of your ISIS3 clone (i.e `cd ISIS3`)
-
-* Create a `build` and an `install` directory at this level:
-  * `mkdir build install`
-
-* Navigate to the build directory: `cd build` 
-* Run the following command to configure your build:
-  * `cmake -Disis3Data=<path-to-isis3-data> -Disis3TestData=<path-to-isis3-test-data> -DJP2KFLAG=OFF -DCMAKE_BUILD_TYPE=RELEASE -GNinja ../isis`
-
-* Set your ISISROOT to `/the/path/to/your/build`:
-  * `export ISISROOT=$(pwd)`
-
-* And finally, build the documentation by running:
+Build just the documentation by running:
 
 ```
 ninja docs -j7
 ```
-
-It is not necessary to build the rest of ISIS to build and preview documentation-only changes. 
 
 ### If You Already Have an Existing ISIS Build: 
 
@@ -76,8 +62,15 @@ To view your documentation, open the `index.html` file immediately under the doc
 
 If you see changes that need to be made to the documentation at this point, you can make the changes in your documentation XML files, re-run your documentation build command, and then just refresh the web-page in your browser to view your updated changes. 
 
+It is also possible to rebuild just the documentation for one application by running: 
+
+
+```
+ninja application-name.html
+```
+
 # Adding Your Documentation Changes to ISIS
-To contribute your documentation changes to ISIS, please put in a pull request containing your documentation changes, following the instructions at [How to Put in a PR](https://github.com/USGS-Astrogeology/ISIS3/wiki/How-to-Start-Contributing#create-a-pull-request). Be sure to read the [Contributing](https://github.com/USGS-Astrogeology/ISIS3/blob/dev/CONTRIBUTING.md) document, and to select the "Documentation change" under "Types of change" in the PR template which will appear when you put in your pull request. Your pull request will be reviewed by the software team at the Astrogeology Science Center. 
+To contribute your documentation changes to ISIS, please put in a pull request containing your documentation changes, following the instructions at [How to Put in a PR](https://github.com/USGS-Astrogeology/ISIS3/wiki/How-to-Start-Contributing#create-a-pull-request). Be sure to read the [Contributing](https://github.com/USGS-Astrogeology/ISIS3/blob/dev/CONTRIBUTING.md) document, and to select the "Documentation change" under "Types of change" in the PR template which will appear when you put in your pull request. Your pull request will be reviewed. 
 
 # Additional Information About User Documentation in ISIS
 For a comprehensive overview of ISIS documentation, see the following:
