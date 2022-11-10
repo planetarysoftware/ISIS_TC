@@ -6,6 +6,6 @@
 - [Audrie Fennema](https://github.com/audiefen)
 - [Robin Fergason](https://github.com/rfergason)
 - [Jay Laura](https://github.com/jlaura)
-- [Jesse Mapel](https://github.com/jessemapel)
+- [Adam Paquette](https://github.com/acpaquette)
 - [Stuart Robbins](https://github.com/astrostu)
 - [Victor Silva](https://github.com/victoronline)
