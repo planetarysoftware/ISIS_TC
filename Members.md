@@ -9,3 +9,4 @@
 - [Adam Paquette](https://github.com/acpaquette)
 - [Stuart Robbins](https://github.com/astrostu)
 - [Victor Silva](https://github.com/victoronline)
+- [Kelvin Rodriguez](https://github.com/kelvinrr)
