@@ -2,7 +2,9 @@
 
 ## Schedule
 
-Meetings are held at 1 PM MST on the second Thursday of each month
+Meetings are held at 1 PM Arizona time (MST) on the second Thursday of each month
+
+> Arizona does not observe daylight savings, if not in AZ use world clock to get correct time
 
 ## Meeting Venue
 
